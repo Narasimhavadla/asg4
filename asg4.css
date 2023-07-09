@@ -1,0 +1,58 @@
+.one{
+    margin: 50px;
+    border: 10px solid rgb(19, 16, 16);
+    background-color: grey;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    color: white;
+}
+.two{
+    color: white;
+    margin:50px;
+    border: double rgb(13, 12, 13);
+    background-color: grey;
+    
+    
+}
+.three{
+    color: white;
+    margin: 50px;
+    border: dotted black;
+    background-color: grey;
+    
+}
+.four{
+    color: white;
+    margin: 50px;
+    border: dashed rgb(10, 11, 11);
+    background-color: grey;
+    
+}
+.five{
+    color: white;
+    margin: 50px;
+    border: groove black;
+    background-color: grey;
+    
+}
+.six{
+    color: rgb(233, 233, 229);
+    margin: 50px;
+    border: ridge black;
+    background-color: grey;
+    
+}
+.seven{
+    color: rgb(233, 233, 229);
+    margin: 50px;
+    border: inset black;
+    background-color: grey;
+
+}
+.eight{
+    color: rgb(233, 233, 229);
+    margin: 50px;
+    border: outset black;
+    background-color: grey;
+
+}
